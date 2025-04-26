@@ -168,7 +168,7 @@ header {
 }
 
 .hero-section {
-  background-image: url('images/hero_img.jpg');
+  background-image: url('/images/hero_img.jpg');
   background-size: cover;
   padding: 100px 90px;
   color: white;
@@ -1064,3 +1064,5 @@ background-color: rgb(253, 214, 186);
 .card img {
   margin-bottom:48px;
 }
+
+/* end of app */
